@@ -6,9 +6,9 @@
       "status": true,
       "link": "https://google.com/",
       
-      "addon": false,
+      "addon": true,
       "maps": true,
-      "texture": false,
+      "texture": true,
       "skin": true,
       "more": false,
       
